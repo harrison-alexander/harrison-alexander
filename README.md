@@ -1,7 +1,8 @@
 ### Hi there 👋
 My name is Harrison Alexander and I am a student at Lubbock High School!
 I am excited to start my coding journey so I can see where it will take me in life!
-I love to eat, play football, play soccer, play basketball, and fish
+I am ready to learn how to work this website and confidently code.
+I love to eat, play football, play soccer, play basketball, and fish.
 
 <!--
 **harrison-alexander/harrison-alexander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
